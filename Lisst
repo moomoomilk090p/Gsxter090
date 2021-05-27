@@ -1,214 +1,232 @@
-#EXTINF:-1 tvg-id="babytv.mx" tvg-name="MEX:  Baby TV" tvg-logo="https://lh3.googleusercontent.com/proxy/qhOrNwlxUQKvPTXaD_KHnDIIGNGG4_NsS66LCOruk-o4h7M9JSVV31Ce-Mp4xxP3w7isIp5eyPwXZA7A-KI7fd45QJ8Ej7LxN812GAEfY5mnv0avvexYObfctXA4" group-title="MEXICO",MEX:  Baby TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525171
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="MEX:  FX" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png" group-title="MEXICO",MEX:  FX
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525243
-#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MEX: A&E" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="MEXICO",MEX: A&E
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525158
-#EXTINF:-1 tvg-id="" tvg-name="MEX: a+ 7.2 (SD)" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/a.png" group-title="MEXICO",MEX: a+ 7.2 (SD)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525159
-#EXTINF:-1 tvg-id="proyecto.40.mx" tvg-name="MEX: adn40" tvg-logo="http://i.ibb.co/KsybWkp/adn40.png" group-title="MEXICO",MEX: adn40
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525160
-#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MEX: AMC" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" group-title="MEXICO",MEX: AMC
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525161
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MEX: Animal Planet" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="MEXICO",MEX: Animal Planet
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525162
-#EXTINF:-1 tvg-id="antena3.mx" tvg-name="MEX: Antena 3 Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/398px-Antena_3_Internacional_logo_2017.svg.png" group-title="MEXICO",MEX: Antena 3 Internacional
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525163
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="MEX: AXN" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" group-title="MEXICO",MEX: AXN
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525164
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MEX: AZ Corazon" tvg-logo="http://i.ibb.co/MZdbQN6/az-corazon.png" group-title="MEXICO",MEX: AZ Corazon
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525165
-#EXTINF:-1 tvg-id="az.mundo.co" tvg-name="MEX: AZ Mundo" tvg-logo="http://i.ibb.co/9wVSVbJ/az-mundo.png" group-title="MEXICO",MEX: AZ Mundo
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525166
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX: Azteca 7" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/418.png" group-title="MEXICO",MEX: Azteca 7
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525167
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Azteca uno (I)" tvg-logo="http://i.ibb.co/nQtT1fZ/aztecauno.png" group-title="MEXICO",MEX: Azteca uno (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525169
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MEX: Canal 5" tvg-logo="data:image/png;base64,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" group-title="MEXICO",MEX: Canal 5
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525173
-#EXTINF:-1 tvg-id="CanalEstrellas.es" tvg-name="MEX: Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",MEX: Canal de las Estrellas
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525175
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Cinecanal" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/640px-CinecanalLA.png" group-title="MEXICO",MEX: Cinecanal
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525177
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Cinemax." tvg-logo="https://itzlanez.com/ICONS/NEWPNG/CINEMAX.png" group-title="MEXICO",MEX: Cinemax.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525180
-#EXTINF:-1 tvg-id="" tvg-name="MEX: CNN en Espanol" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/640px-CNN_en_Espa%C3%B1ol.svg.png" group-title="MEXICO",MEX: CNN en Espanol
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525182
-#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MEX: CNN International" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="MEXICO",MEX: CNN International
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525184
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="MEX: Comedy Central" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png" group-title="MEXICO",MEX: Comedy Central
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525186
-#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="MEX: De Película Multiplex." tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png/revision/latest/scale-to-width-down/340?cb=20171203162827" group-title="MEXICO",MEX: De Película Multiplex.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525188
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MEX: Discovery Channel" tvg-logo="https://fanart.tv/api/download.php?type=download&image=14144&section=1" group-title="MEXICO",MEX: Discovery Channel
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525190
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MEX: Discovery Channel" tvg-logo="" group-title="MEXICO",MEX: Discovery Channel
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525192
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MEX: Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Discovery_h%26h.png" group-title="MEXICO",MEX: Discovery Home & Health
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525194
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="MEX: Discovery Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Discovery_Kids_Canada.png/revision/latest/scale-to-width-down/340?cb=20141007151107" group-title="MEXICO",MEX: Discovery Kids
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525196
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="MEX: Discovery Science" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/449px-Science_Channel_logo.svg.png" group-title="MEXICO",MEX: Discovery Science
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525198
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="MEX: Discovery Theater" tvg-logo="https://www.pngkey.com/png/full/252-2529722_discovery-hd-theater-discovery-channel.png" group-title="MEXICO",MEX: Discovery Theater
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525200
-#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="MEX: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="MEXICO",MEX: Discovery Turbo
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525202
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MEX: Discovery World" tvg-logo="https://www.pngkit.com/png/full/360-3607895_discovery-world-channel-logo.png" group-title="MEXICO",MEX: Discovery World
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525204
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MEX: Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="MEXICO",MEX: Distrito Comedia
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525207
-#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="MEX: E! Entertainment" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/186px-E%21_Logo_2012.svg.png" group-title="MEXICO",MEX: E! Entertainment
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525209
-#EXTINF:-1 tvg-id="pervyy.ru" tvg-name="MEX: El Gourmet" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="MEXICO",MEX: El Gourmet
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525211
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Enlace TBN" tvg-logo="" group-title="MEXICO",MEX: Enlace TBN
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/2157754
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESNE TV" tvg-logo="" group-title="MEXICO",MEX: ESNE TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/2157755
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MEX: ESPN 3." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="MEXICO",MEX: ESPN 3.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/2157756
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MEX: ESPN 3." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="MEXICO",MEX: ESPN 3.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525213
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Euronews" tvg-logo="" group-title="MEXICO",MEX: Euronews
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/2157757
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Europa Europa" tvg-logo="" group-title="MEXICO",MEX: Europa Europa
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/2157758
-#EXTINF:-1 tvg-id="" tvg-name="MEX: EWTN" tvg-logo="" group-title="MEXICO",MEX: EWTN
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/2157759
-#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MEX: Film & Arts" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="MEXICO",MEX: Film & Arts
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525216
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Food Network" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="MEXICO",MEX: Food Network
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525218
-#EXTINF:-1 tvg-id="formula1.mx" tvg-name="MEX: Formula" tvg-logo="http://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png" group-title="MEXICO",MEX: Formula
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525220
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MEX: Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",MEX: Foro TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525222
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX Channel." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/640px-Fox_Channel_logo.svg.png" group-title="MEXICO",MEX: FOX Channel.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525224
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX Cinema" tvg-logo="http://i.ibb.co/Tr1cMmH/FOXPremium-Cinema-LA.png" group-title="MEXICO",MEX: FOX Cinema
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525228
-#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="MEX: Fox Life" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/640px-Fox_life_logo.svg.png" group-title="MEXICO",MEX: Fox Life
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525226
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX Premium Movies" tvg-logo="http://i.ibb.co/gg15x8S/Fox-Premium-Movies2018.png" group-title="MEXICO",MEX: FOX Premium Movies
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525230
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX Premium Series East" tvg-logo="http://i.ibb.co/pXVHHJT/Fox-Premium-Series2018.png" group-title="MEXICO",MEX: FOX Premium Series East
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525233
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MEX: FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/320px-Fox_Sports_1_logo.svg.png" group-title="MEXICO",MEX: FOX Sports 1
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525235
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MEX: FOX Sports 2 (I)" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/813-300.png?1509614239" group-title="MEXICO",MEX: FOX Sports 2 (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525237
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MEX: FOX Sports 3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/837_300.png" group-title="MEXICO",MEX: FOX Sports 3
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525239
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Fuel TV" tvg-logo="http://i.ibb.co/jHDvcC4/Fuel-tv.jpg" group-title="MEXICO",MEX: Fuel TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525241
-#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="MEX: FX Movies" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/640px-FX_Movies_logo.svg.png" group-title="MEXICO",MEX: FX Movies
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525245
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Garage TV" tvg-logo="http://pbs.twimg.com/media/DlMqfLZX4AEw88p.png" group-title="MEXICO",MEX: Garage TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525247
-#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MEX: glitz*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="MEXICO",MEX: glitz*
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525249
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="MEX: Golden Edge" tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" group-title="MEXICO",MEX: Golden Edge
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525251
-#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="MEX: Golden Premier" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png" group-title="MEXICO",MEX: Golden Premier
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525253
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MEX: HBO 2" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO 2
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525257
-#EXTINF:-1 tvg-id="" tvg-name="MEX: HBO East." tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO East.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525255
-#EXTINF:-1 tvg-id="" tvg-name="MEX: HBO Family East (I)" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO Family East (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525259
-#EXTINF:-1 tvg-id="" tvg-name="MEX: HBO Mundi" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO Mundi
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525263
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="MEX: HBO Plus West (I)" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO Plus West (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525261
-#EXTINF:-1 tvg-id="" tvg-name="MEX: HBO POP (I)" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO POP (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525267
-#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="MEX: HBO Signature (I)" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO Signature (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525269
-#EXTINF:-1 tvg-id="" tvg-name="MEX: HBO Xtreme" tvg-logo="https://itzlanez.com/ICONS/MEXHBO.png" group-title="MEXICO",MEX: HBO Xtreme
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525271
-#EXTINF:-1 tvg-id="history.mx" tvg-name="MEX: History" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="MEXICO",MEX: History
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525273
-#EXTINF:-1 tvg-id="hola.tv.co" tvg-name="MEX: Hola! TV" tvg-logo="" group-title="MEXICO",MEX: Hola! TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525275
-#EXTINF:-1 tvg-id="i.sat.br" tvg-name="MEX: I-SAT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/640px-I.Sat_logo.svg.png" group-title="MEXICO",MEX: I-SAT
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525277
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MEX: Imagen TV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/425px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO",MEX: Imagen TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525279
-#EXTINF:-1 tvg-id="ingeniotv.mx" tvg-name="MEX: Ingenio TV" tvg-logo="http://i.ibb.co/2gB2wqL/ingeniotv.png" group-title="MEXICO",MEX: Ingenio TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525282
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="MEX: Investigation Discovery" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/discovery-id-logo-png-9.png" group-title="MEXICO",MEX: Investigation Discovery
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525284
-#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MEX: Lifetime." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/480px-Lifetime_logo17.svg.png" group-title="MEXICO",MEX: Lifetime.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525286
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MEX: Mas Chic" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/640px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="MEXICO",MEX: Mas Chic
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525288
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Mexiquense TV" tvg-logo="http://i.ibb.co/CnLVcMc/Mexiquense-TV.png" group-title="MEXICO",MEX: Mexiquense TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525289
-#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MEX: MTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/640px-MTV_Logo_2010.svg.png" group-title="MEXICO",MEX: MTV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525291
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MEX: Multimedios Plus" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/large.583340ea4d3e3_MultimediosPlus2015-299x169-556277335.png" group-title="MEXICO",MEX: Multimedios Plus
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525293
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MEX: Multimedios Television" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO",MEX: Multimedios Television
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525295
-#EXTINF:-1 tvg-id="" tvg-name="MEX: MVS tv" tvg-logo="http://i.ibb.co/6WqqfJS/Logo-MVS-TV-Color-sitio.png" group-title="MEXICO",MEX: MVS tv
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525297
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MEX: Nat Geo" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png" group-title="MEXICO",MEX: Nat Geo
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525299
-#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="MEX: National Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="MEXICO",MEX: National Geo Wild
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525301
-#EXTINF:-1 tvg-id="canal.nu.mx" tvg-name="MEX: Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Canal_Nu9ve.jpg" group-title="MEXICO",MEX: Nueve
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525303
-#EXTINF:-1 tvg-id="xeipn.canal.11.mx" tvg-name="MEX: Once TV" tvg-logo="http://i.ibb.co/N6zX12p/oncelogo.png" group-title="MEXICO",MEX: Once TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525305
-#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="MEX: Paramount Channel." tvg-logo="https://img.favpng.com/25/5/14/paramount-network-television-show-roku-television-channel-png-favpng-3F9aVcXKHTjtus5busTFWkk3J.jpg" group-title="MEXICO",MEX: Paramount Channel.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525307
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="MEX: Sony Channel" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="MEXICO",MEX: Sony Channel
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525309
-#EXTINF:-1 tvg-id="space.mx" tvg-name="MEX: Space." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKMSWq5mzQ7kHSFPhUjYX0VrvZZayoqvAu-EEfaj29Ck9zi7cE" group-title="MEXICO",MEX: Space.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525311
-#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MEX: Studio Universal" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="MEXICO",MEX: Studio Universal
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525313
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MEX: SyFy" tvg-logo="http://i.ibb.co/bJhTcLq/SYFYVertical-LA.png" group-title="MEXICO",MEX: SyFy
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525315
-#EXTINF:-1 tvg-id="tbs.mx" tvg-name="MEX: TBS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" group-title="MEXICO",MEX: TBS
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525317
-#EXTINF:-1 tvg-id="tcm.mx" tvg-name="MEX: TCM (I)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="MEXICO",MEX: TCM (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525320
-#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="MEX: Telemundo" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png" group-title="MEXICO",MEX: Telemundo
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525322
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Televisa Del Bajio" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/del-bajio.png" group-title="MEXICO",MEX: Televisa Del Bajio
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525324
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Televisa Monterrey" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/TELEVISA-MONTERREY.png" group-title="MEXICO",MEX: Televisa Monterrey
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525326
-#EXTINF:-1 tvg-id="" tvg-name="MEX: Televisa Puebla" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/TELEVISA-PUEBLA.png" group-title="MEXICO",MEX: Televisa Puebla
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525328
-#EXTINF:-1 tvg-id="tlc.mx" tvg-name="MEX: TLC (I)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tlc-logo-png-3.png" group-title="MEXICO",MEX: TLC (I)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525330
-#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="MEX: Tlnovelas (SD)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/573px-Logo_tlnovelas_feb2019.png" group-title="MEXICO",MEX: Tlnovelas (SD)
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525332
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MEX: TNT Series." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="MEXICO",MEX: TNT Series.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525336
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MEX: TNT." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/480px-TNT_Logo_2016.svg.png" group-title="MEXICO",MEX: TNT.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525334
-#EXTINF:-1 tvg-id="trutv.mx" tvg-name="MEX: TruTV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png" group-title="MEXICO",MEX: TruTV.
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525338
-#EXTINF:-1 tvg-id="xh.gc.canal.5.mx" tvg-name="MEX: TV Cuatro" tvg-logo="http://i.ibb.co/rFc6CjX/tvcuatro-1.png" group-title="MEXICO",MEX: TV Cuatro
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525340
-#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="MEX: TV Mas" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="MEXICO",MEX: TV Mas
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525341
-#EXTINF:-1 tvg-id="tvc.co" tvg-name="MEX: TVC" tvg-logo="http://i.ibb.co/k2588nh/tvc.png" group-title="MEXICO",MEX: TVC
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525344
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MEX: Unicable" tvg-logo="http://i.ibb.co/1fXtNxJ/Unicable.png" group-title="MEXICO",MEX: Unicable
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525346
-#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="MEX: Universal Channel" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/640px-Universal_TV_logo.svg.png" group-title="MEXICO",MEX: Universal Channel
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525347
-#EXTINF:-1 tvg-id="vh1.mx" tvg-name="MEX: VH1" tvg-logo="http://89.187.185.116/Total/total.php?id=334&f=.m3u8" group-title="MEXICO",MEX: VH1
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525349
-#EXTINF:-1 tvg-id="vh1.classic.usa.co" tvg-name="MEX: VH1 Classic" tvg-logo="https://lh3.googleusercontent.com/proxy/f2U6NPqT44WOWVLC5kqLM2SMbs7LVNQroZv77hb_sgXJQ92hOrT-t2XM6I2mGriohF-N_q1xMThZzfpqkdZ-GiMiT1GvMfPBN0KQYyhpRBEFqp2xTTmr6z5N8VU" group-title="MEXICO",MEX: VH1 Classic
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525351
-#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="MEX: Warner TV" tvg-logo="https://www.stickpng.com/assets/images/58483b7684e35b574e745382.png" group-title="MEXICO",MEX: Warner TV
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525353
-#EXTINF:-1 tvg-id="wobi.tv.mx" tvg-name="MEX: Wobi" tvg-logo="https://lh3.googleusercontent.com/proxy/ZZIB58uKW84WjRhEOU2_7Vd_QXU5Ii2y-rPlWnr4K9yWGdgJ0KBlZsR89Kk5XAIjGjO2MrX3sXpj4B_IbT8rImQD" group-title="MEXICO",MEX: Wobi
-http://gcs2.xyz:2052/KkaSYcSPrn/WjvUD1eRfF/1525355
+#EXTINF:-1 tvg-id="" tvg-name="|NL| UFC Network HD" tvg-logo="http://wagmaupload.com/images/live150_|NL|_UFC_Network_HD.png" group-title="NETHERLANDS",|NL| UFC Network HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/6799
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD (R)" tvg-logo="http://wagmaupload.com/images/live150_nba.png" group-title="CANADA",NBA TV HD (R)
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/30506
+#EXTINF:-1 tvg-id="" tvg-name="|USA| NBA HD" tvg-logo="http://wagmaupload.com/images/live150_nba.png" group-title="USA",|USA| NBA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/42047
+#EXTINF:-1 tvg-id="" tvg-name="★★★-|ESPANA |-★★★" tvg-logo="http://wagmaupload.com/images/live150_espanyv.png" group-title="ESPANA",★★★-|ESPANA |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8072
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 HD" tvg-logo="http://wagmaupload.com/images/live150_la1.png" group-title="ESPANA",|ES| LA 1 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8073
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 2 HD" tvg-logo="http://wagmaupload.com/images/live150_la2.png" group-title="ESPANA",|ES| LA 2 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8074
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ANTENA  3 HD" tvg-logo="http://wagmaupload.com/images/live150_Antena_3.png" group-title="ESPANA",|ES| ANTENA  3 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8075
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CUATRO  HD" tvg-logo="http://wagmaupload.com/images/live150_cuatro.png" group-title="ESPANA",|ES| CUATRO  HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8076
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TELECINCO  HD" tvg-logo="http://wagmaupload.com/images/live150_Telecinco_HD.png" group-title="ESPANA",|ES| TELECINCO  HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8077
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA SEXTA  HD" tvg-logo="http://wagmaupload.com/images/live150_LA_SEXTA.png" group-title="ESPANA",|ES| LA SEXTA  HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8078
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FDF HD" tvg-logo="http://wagmaupload.com/images/live150_dfd.png" group-title="ESPANA",|ES| FDF HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8079
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ENERGY" tvg-logo="http://wagmaupload.com/images/live150_Energy_2012.png" group-title="ESPANA",|ES| ENERGY
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8080
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DIVINITY" tvg-logo="http://wagmaupload.com/images/live150_Divinity_2012.png" group-title="ESPANA",|ES| DIVINITY
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8081
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MEGA" tvg-logo="http://wagmaupload.com/images/live150_MEGA.png" group-title="ESPANA",|ES| MEGA
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8082
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 24 HORAS" tvg-logo="http://wagmaupload.com/images/live150_24hours.png" group-title="ESPANA",|ES| 24 HORAS
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8083
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NOVA HD" tvg-logo="http://wagmaupload.com/images/live150_nova.png" group-title="ESPANA",|ES| NOVA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8084
+#EXTINF:-1 tvg-id="" tvg-name="|ES| XTREM HD" tvg-logo="http://wagmaupload.com/images/live150_Extreme.png" group-title="ESPANA",|ES| XTREM HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8085
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NEOX HD" tvg-logo="http://wagmaupload.com/images/live150_neox.png" group-title="ESPANA",|ES| NEOX HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8086
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT CANAL SUR HD" tvg-logo="http://wagmaupload.com/images/live150_canalsur.png" group-title="ESPANA",|ES| TNT CANAL SUR HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8087
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT TRECE" tvg-logo="http://wagmaupload.com/images/live150_trace.png" group-title="ESPANA",|ES| TNT TRECE
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8088
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT HIT TV" tvg-logo="http://wagmaupload.com/images/live150_hit.png" group-title="ESPANA",|ES| TNT HIT TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8089
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT 8TV" tvg-logo="http://wagmaupload.com/images/live150_8tv.png" group-title="ESPANA",|ES| TNT 8TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8090
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT ARAGON TV" tvg-logo="http://wagmaupload.com/images/live150_aragon.png" group-title="ESPANA",|ES| TNT ARAGON TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8091
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT SOL MUSIC" tvg-logo="http://wagmaupload.com/images/live150_solMusic.png" group-title="ESPANA",|ES| TNT SOL MUSIC
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8092
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT 7RM FHD" tvg-logo="http://wagmaupload.com/images/live150_tnt7.png" group-title="ESPANA",|ES| TNT 7RM FHD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8093
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT ETB 1" tvg-logo="http://wagmaupload.com/images/live150_ETB1_Spain.png" group-title="ESPANA",|ES| TNT ETB 1
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8094
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT ETB 2" tvg-logo="http://wagmaupload.com/images/live150_ETB2_Spain.png" group-title="ESPANA",|ES| TNT ETB 2
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8095
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT EXTREMADURA TV" tvg-logo="http://wagmaupload.com/images/live150_tntcanalextre.png" group-title="ESPANA",|ES| TNT EXTREMADURA TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8096
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT LA OTRA" tvg-logo="http://wagmaupload.com/images/live150_La_Otra_logo.png" group-title="ESPANA",|ES| TNT LA OTRA
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8097
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT INTERE CONOMIA" tvg-logo="http://wagmaupload.com/images/live150_Intereconom.png" group-title="ESPANA",|ES| TNT INTERE CONOMIA
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8098
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT 3/24" tvg-logo="http://wagmaupload.com/images/live150_tnt324.png" group-title="ESPANA",|ES| TNT 3/24
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8099
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT TV3 FHD" tvg-logo="http://wagmaupload.com/images/live150_tnttv3.png" group-title="ESPANA",|ES| TNT TV3 FHD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8100
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT MOLA TV" tvg-logo="http://wagmaupload.com/images/live150_mola.png" group-title="ESPANA",|ES| TNT MOLA TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8101
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT SUPER3/33" tvg-logo="https://i.postimg.cc/CxTTNZSp/unnamed-removebg-preview-6.png" group-title="ESPANA",|ES| TNT SUPER3/33
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8102
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT BOM CINE" tvg-logo="http://wagmaupload.com/images/live150_bomcina.png" group-title="ESPANA",|ES| TNT BOM CINE
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8103
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT VH1" tvg-logo="http://wagmaupload.com/images/live150_vh1.png" group-title="ESPANA",|ES| TNT VH1
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8104
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT FIBRACAT" tvg-logo="http://wagmaupload.com/images/live150_FIBRACAT.png" group-title="ESPANA",|ES| TNT FIBRACAT
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8105
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT INTER ALMERÍA TV" tvg-logo="http://wagmaupload.com/images/live150_inra.png" group-title="ESPANA",|ES| TNT INTER ALMERÍA TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8106
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT CONDAVISIÓN" tvg-logo="http://wagmaupload.com/images/live150_logo_condavision_fb.png" group-title="ESPANA",|ES| TNT CONDAVISIÓN
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8107
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| NINOS |-★★★" tvg-logo="http://wagmaupload.com/images/live150_ninos.png" group-title="ESPANA",★★★-||ES| NINOS |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8108
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BABY  TV" tvg-logo="http://wagmaupload.com/images/live150_babyTV.png" group-title="ESPANA",|ES| BABY  TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8109
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BOING" tvg-logo="http://wagmaupload.com/images/live150_Boing_Logo.png" group-title="ESPANA",|ES| BOING
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8110
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CLAN HD" tvg-logo="http://wagmaupload.com/images/live150_clan.png" group-title="ESPANA",|ES| CLAN HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8111
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY CHANNEL HD" tvg-logo="http://wagmaupload.com/images/live150_disney.png" group-title="ESPANA",|ES| DISNEY CHANNEL HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8112
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY JUNIOR" tvg-logo="http://wagmaupload.com/images/live150_Disney_Junior.png" group-title="ESPANA",|ES| DISNEY JUNIOR
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8113
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY XD" tvg-logo="http://wagmaupload.com/images/live150_Disney_XD.png" group-title="ESPANA",|ES| DISNEY XD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8114
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NICKELODEON HD" tvg-logo="http://wagmaupload.com/images/live150_nickelodeon.png" group-title="ESPANA",|ES| NICKELODEON HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8115
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NICK JR" tvg-logo="http://wagmaupload.com/images/live150_nickJir.png" group-title="ESPANA",|ES| NICK JR
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8116
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL PANDA" tvg-logo="http://wagmaupload.com/images/live150_canalPanda.png" group-title="ESPANA",|ES| CANAL PANDA
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8117
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR DISNEY +" tvg-logo="http://wagmaupload.com/images/live150_Movistar_Disney.png" group-title="ESPANA",|ES| MOVISTAR DISNEY +
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8118
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR DISNEY" tvg-logo="http://wagmaupload.com/images/live150_Movistar_Disney.png" group-title="ESPANA",|ES| MOVISTAR DISNEY
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8119
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LOS SIMPSON" tvg-logo="http://wagmaupload.com/images/live150_simpsons.png" group-title="ESPANA",|ES| LOS SIMPSON
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8120
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| ENTRETENIMIENTO |-★★★" tvg-logo="http://wagmaupload.com/images/live150_ENTRETENIMIENTO.png" group-title="ESPANA",★★★-||ES| ENTRETENIMIENTO |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8121
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AMC HD" tvg-logo="http://wagmaupload.com/images/live150_amc.png" group-title="ESPANA",|ES| AMC HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8122
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AXN HD" tvg-logo="http://wagmaupload.com/images/live150_axn.png" group-title="ESPANA",|ES| AXN HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8123
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AXN White HD" tvg-logo="http://wagmaupload.com/images/live150_axnWhite.png" group-title="ESPANA",|ES| AXN White HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8124
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CALLE 13 HD" tvg-logo="http://wagmaupload.com/images/live150_calle13.png" group-title="ESPANA",|ES| CALLE 13 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8125
+#EXTINF:-1 tvg-id="" tvg-name="|ES| COSMOS HD" tvg-logo="http://wagmaupload.com/images/live150_cosmo.png" group-title="ESPANA",|ES| COSMOS HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8126
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX HD" tvg-logo="http://wagmaupload.com/images/live150_fox.png" group-title="ESPANA",|ES| FOX HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8127
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX LIFE" tvg-logo="http://wagmaupload.com/images/live150_foxlife.png" group-title="ESPANA",|ES| FOX LIFE
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8128
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HOLLYWOOD  HD" tvg-logo="http://wagmaupload.com/images/live150_hollywood.png" group-title="ESPANA",|ES| HOLLYWOOD  HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8129
+#EXTINF:-1 tvg-id="" tvg-name="|ES| PARAMOUNT CHANNEL HD" tvg-logo="http://wagmaupload.com/images/live150_blue.png" group-title="ESPANA",|ES| PARAMOUNT CHANNEL HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8130
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SUNDANSE HD" tvg-logo="http://wagmaupload.com/images/live150_sundance.png" group-title="ESPANA",|ES| SUNDANSE HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8131
+#EXTINF:-1 tvg-id="" tvg-name="|ES| COMEDY CENTRAL HD" tvg-logo="http://wagmaupload.com/images/live150_comdoy.png" group-title="ESPANA",|ES| COMEDY CENTRAL HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8132
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SYFY HD" tvg-logo="http://wagmaupload.com/images/live150_syfy.png" group-title="ESPANA",|ES| SYFY HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8133
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT HD" tvg-logo="http://wagmaupload.com/images/live150_tnt.png" group-title="ESPANA",|ES| TNT HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8134
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| CULTURA |-★★★" tvg-logo="http://wagmaupload.com/images/live150_Cultura.png" group-title="ESPANA",★★★-||ES| CULTURA |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8135
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BLAZE HD" tvg-logo="http://wagmaupload.com/images/live150_BlazeLogo.png" group-title="ESPANA",|ES| BLAZE HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8136
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL COCINA HD" tvg-logo="http://wagmaupload.com/images/live150_canal-cocina.png" group-title="ESPANA",|ES| CANAL COCINA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8137
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CAZA Y PESCA HD" tvg-logo="http://wagmaupload.com/images/live150_Caza-y-Pesca.png" group-title="ESPANA",|ES| CAZA Y PESCA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8138
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DECASA HD" tvg-logo="http://wagmaupload.com/images/live150_Decasa.png" group-title="ESPANA",|ES| DECASA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8139
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CRIMEN + Investigacion" tvg-logo="http://wagmaupload.com/images/live150_Crime.png" group-title="ESPANA",|ES| CRIMEN + Investigacion
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8140
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISCOVERY CHANNEL" tvg-logo="http://wagmaupload.com/images/live150_Discovery.png" group-title="ESPANA",|ES| DISCOVERY CHANNEL
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8141
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HISTORIA HD" tvg-logo="http://wagmaupload.com/images/live150_histotal.png" group-title="ESPANA",|ES| HISTORIA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8142
+#EXTINF:-1 tvg-id="" tvg-name="|ES| IBERALIA" tvg-logo="http://wagmaupload.com/images/live150_iberalia.png" group-title="ESPANA",|ES| IBERALIA
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8143
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NATIONAL GEOGRAPHIC HD" tvg-logo="http://wagmaupload.com/images/live150_natGeoHD.png" group-title="ESPANA",|ES| NATIONAL GEOGRAPHIC HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8144
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://wagmaupload.com/images/live150_natGeoHDwild.png" group-title="ESPANA",|ES| NATIONAL GEOGRAPHIC WILD HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8145
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DMAX" tvg-logo="http://wagmaupload.com/images/live150_DMax.png" group-title="ESPANA",|ES| DMAX
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8146
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ODISEA" tvg-logo="http://wagmaupload.com/images/live150_ODISEA.png" group-title="ESPANA",|ES| ODISEA
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8147
+#EXTINF:-1 tvg-id="" tvg-name="|ES| VIAJAR HD" tvg-logo="http://wagmaupload.com/images/live150_viajar.png" group-title="ESPANA",|ES| VIAJAR HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8148
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| SPORTS |-★★★" tvg-logo="http://wagmaupload.com/images/live150_sport.png" group-title="ESPANA",★★★-||ES| SPORTS |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8149
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD [ LIVE ]" tvg-logo="http://wagmaupload.com/images/live150_Liga_de_Campeones_2.png" group-title="ESPANA",|ES| MOVISTAR LIGA CAMPEONES 2 FHD [ LIVE ]
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8150
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA TV BAR HD" tvg-logo="http://wagmaupload.com/images/live150_laliga.png" group-title="ESPANA",|ES| LIGA TV BAR HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8151
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA HD" tvg-logo="http://wagmaupload.com/images/live150_La-Liga.png" group-title="ESPANA",|ES| MOVISTAR LA LIGA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8152
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 1 HD" tvg-logo="http://wagmaupload.com/images/live150_eurosport1.png" group-title="ESPANA",|ES| EUROSPORT 1 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8153
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 2 HD" tvg-logo="http://wagmaupload.com/images/live150_eurosport2.png" group-title="ESPANA",|ES| EUROSPORT 2 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8154
+#EXTINF:-1 tvg-id="" tvg-name="|ES| GOL TV HD" tvg-logo="http://wagmaupload.com/images/live150_goltv.jpg" group-title="ESPANA",|ES| GOL TV HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8155
+#EXTINF:-1 tvg-id="" tvg-name="|ES| REAL MADRID TV" tvg-logo="http://wagmaupload.com/images/live150_realMadride.png" group-title="ESPANA",|ES| REAL MADRID TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8156
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BARCA TV" tvg-logo="http://wagmaupload.com/images/live150_barc.png" group-title="ESPANA",|ES| BARCA TV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8157
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR F1 HD" tvg-logo="http://wagmaupload.com/images/live150_MOVISTAR_F1.png" group-title="ESPANA",|ES| MOVISTAR F1 HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8158
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR GOLF HD" tvg-logo="http://wagmaupload.com/images/live150_golf.png" group-title="ESPANA",|ES| MOVISTAR GOLF HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8159
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LIGA DE CAMPEONES HD [ LIVE ]" tvg-logo="http://wagmaupload.com/images/live150_DEcampeones.png" group-title="ESPANA",|ES| MOVISTAR LIGA DE CAMPEONES HD [ LIVE ]
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8160
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD  [ LIVE ]" tvg-logo="http://wagmaupload.com/images/live150_Movistar_laliga_1.png" group-title="ESPANA",|ES| MOVISTAR LA LIGA 1 FHD  [ LIVE ]
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8161
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 2 HD  [ LIVE ]" tvg-logo="http://wagmaupload.com/images/live150_Movistar_laliga_2.png" group-title="ESPANA",|ES| MOVISTAR LA LIGA 2 HD  [ LIVE ]
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8162
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD  [ LIVE ]" tvg-logo="http://wagmaupload.com/images/live150_Movistar_laliga_3.png" group-title="ESPANA",|ES| MOVISTAR LA LIGA 3 FHD  [ LIVE ]
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8163
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ESPORT 3" tvg-logo="http://wagmaupload.com/images/live150_esport3.png" group-title="ESPANA",|ES| ESPORT 3
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8164
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| MOVIESTAR |-★★★" tvg-logo="http://wagmaupload.com/images/live150_movistar.png" group-title="ESPANA",★★★-||ES| MOVIESTAR |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8165
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR ACCION HD" tvg-logo="http://wagmaupload.com/images/live150_Movistar_Acci.png" group-title="ESPANA",|ES| MOVISTAR ACCION HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8166
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR COMEDIA HD" tvg-logo="http://wagmaupload.com/images/live150_movistar_comedia.png" group-title="ESPANA",|ES| MOVISTAR COMEDIA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8167
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR DRAMA HD" tvg-logo="http://wagmaupload.com/images/live150_movistar_drama.png" group-title="ESPANA",|ES| MOVISTAR DRAMA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8168
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR CINEDOC&ROLL HD" tvg-logo="http://wagmaupload.com/images/live150_Movistar_CineDoc.png" group-title="ESPANA",|ES| MOVISTAR CINEDOC&ROLL HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8169
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR ESTRENOS HD" tvg-logo="http://wagmaupload.com/images/live150_Movistar_Estrenos.png" group-title="ESPANA",|ES| MOVISTAR ESTRENOS HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8170
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR DCINE N" tvg-logo="http://wagmaupload.com/images/live150_Movistar_Cine_Espa.png" group-title="ESPANA",|ES| MOVISTAR DCINE N
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8171
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR SERIES HD" tvg-logo="http://wagmaupload.com/images/live150_Movistarseries.png" group-title="ESPANA",|ES| MOVISTAR SERIES HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8172
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR SERIESMANIA HD" tvg-logo="http://wagmaupload.com/images/live150_Movistar_Seriesman.png" group-title="ESPANA",|ES| MOVISTAR SERIESMANIA HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8173
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR VAMOS BAR HD" tvg-logo="http://wagmaupload.com/images/live150_movistar_vamos.png" group-title="ESPANA",|ES| MOVISTAR VAMOS BAR HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8174
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR TOROS HD" tvg-logo="http://wagmaupload.com/images/live150_toors.png" group-title="ESPANA",|ES| MOVISTAR TOROS HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8175
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR" tvg-logo="http://wagmaupload.com/images/live150_movistar.png" group-title="ESPANA",|ES| MOVISTAR
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8176
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| DEPORTES |-★★★" tvg-logo="http://wagmaupload.com/images/live150_Espn_deportes.png" group-title="ESPANA",★★★-||ES| DEPORTES |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8177
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR DEPORTE 1 FHD" tvg-logo="http://wagmaupload.com/images/live150_movistar-formula-1.png" group-title="ESPANA",|ES| MOVISTAR DEPORTE 1 FHD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8178
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR DEPORTE HD" tvg-logo="http://wagmaupload.com/images/live150_movistar-deportes.png" group-title="ESPANA",|ES| MOVISTAR DEPORTE HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8179
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEDEPORTE  FHD" tvg-logo="http://wagmaupload.com/images/live150_TELED.png" group-title="ESPANA",|ES| TELEDEPORTE  FHD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8180
+#EXTINF:-1 tvg-id="" tvg-name="★★★-||ES| MUSIC |-★★★" tvg-logo="http://wagmaupload.com/images/live150_music.png" group-title="ESPANA",★★★-||ES| MUSIC |-★★★
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8181
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MEZZO LIVE FHD" tvg-logo="http://wagmaupload.com/images/live150_MEZZO.png" group-title="ESPANA",|ES| MEZZO LIVE FHD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8182
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SOL MUSIC HD" tvg-logo="http://wagmaupload.com/images/live150_MTV.png" group-title="ESPANA",|ES| SOL MUSIC HD
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8183
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MTV" tvg-logo="http://wagmaupload.com/images/live150_mtv.png" group-title="ESPANA",|ES| MTV
+http://wagmaott.com:8080/mag00:1A:79:40:30:C1/D0u4ohiN5L/8184
