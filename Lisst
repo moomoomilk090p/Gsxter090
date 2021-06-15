@@ -1,7 +1,17 @@
 #EXTINF:-1 tvg-id="" tvg-name="US084:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="USA Sports",US084:UFC Network
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/3084
-#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="US060:NBA-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" group-title="USA NBA",US060:NBA-TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/3108
+#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="UK Sports",UK227:UFC fight night Pass
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28832
+#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK241:UFC Fight PASS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK241EUROSPORT2FHD.png" group-title="UK Sports",UK241:UFC Fight PASS
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28818
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL050:Fightbox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL050FightboxFHD.png" group-title="Poland",PL050:Fightbox FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/33482
+#EXTINF:-1 tvg-id="polsat.sport.fight.pl" tvg-name="PL100:POLSAT Sport Fight FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL100POLSATSportFightFHD.png" group-title="Poland",PL100:POLSAT Sport Fight FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/33432
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="IT Sports",IT105:Sky Sport NBA HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28457
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/29349
 #EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58056
 #EXTINF:-1 tvg-id="" tvg-name="LA002:AMC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino",LA002:AMC LA
@@ -212,16 +222,6 @@ http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57951
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57950
 #EXTINF:-1 tvg-id="" tvg-name="LA109:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA113ACTIONMAX.png" group-title="Latino",LA109:ACTION MAX
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59188
-#EXTINF:-1 tvg-id="" tvg-name="LA110:El Salvador" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA118ElSalvador.png" group-title="Latino",LA110:El Salvador
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59183
-#EXTINF:-1 tvg-id="" tvg-name="LA111:Nuestra Tele" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA126DWAmerica.png" group-title="Latino",LA111:Nuestra Tele
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59175
-#EXTINF:-1 tvg-id="" tvg-name="LA112:AZ MAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA135AZMAS.png" group-title="Latino",LA112:AZ MAS
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59166
-#EXTINF:-1 tvg-id="" tvg-name="LA113:CANAL ONCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA165CANALONCE.png" group-title="Latino",LA113:CANAL ONCE
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59136
-#EXTINF:-1 tvg-id="" tvg-name="LA114:CANAL DE LAS ESTRELLAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA168CANALDELASESTRELLASHD.png" group-title="Latino",LA114:CANAL DE LAS ESTRELLAS HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59133
 #EXTINF:-1 tvg-id="" tvg-name="LA115:Cinemoi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA180Cinemoi.png" group-title="Latino",LA115:Cinemoi
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59121
 #EXTINF:-1 tvg-id="" tvg-name="LA116:Cinema 30 PPV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA199Cinema30PPV.png" group-title="Latino",LA116:Cinema 30 PPV
@@ -230,12 +230,6 @@ http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59102
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59067
 #EXTINF:-1 tvg-id="" tvg-name="LA118:Cinemax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino",LA118:Cinemax
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59066
-#EXTINF:-1 tvg-id="" tvg-name="LA119:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA245CNN.png" group-title="Latino",LA119:CNN
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59056
-#EXTINF:-1 tvg-id="" tvg-name="LA120:CNN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA247CNNESPANOL.png" group-title="Latino",LA120:CNN ESPANOL
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59054
-#EXTINF:-1 tvg-id="" tvg-name="LA121:Cubavision (Cuba)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA260Cubavision(Cuba).png" group-title="Latino",LA121:Cubavision (Cuba)
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59041
 #EXTINF:-1 tvg-id="" tvg-name="LA122:Cinemax West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="Latino",LA122:Cinemax West
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59036
 #EXTINF:-1 tvg-id="" tvg-name="LA123:Directv Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino",LA123:Directv Sports
@@ -320,9 +314,9 @@ http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58741
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58701
 #EXTINF:-1 tvg-id="" tvg-name="LA167:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino",LA167:TUDN
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58695
-#EXTINF:-1 tvg-id="" tvg-name="LA169:UniMas West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA633UniMasWest.png" group-title="Latino",LA169:UniMas West
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58668
 #EXTINF:-1 tvg-id="" tvg-name="LA170:TIGO SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino",LA170:TIGO SPORT
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58650
 #EXTINF:-1 tvg-id="" tvg-name="LA171:Cinemax MXL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA652ULTRAFilm.png" group-title="Latino",LA171:Cinemax MXL
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58649
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58649ç
+#EXTINF:-1 tvg-id="" tvg-name="LA179:Gol TV (Ecuador)" tvg-logo="" group-title="Latino",LA179:Gol TV (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65938
