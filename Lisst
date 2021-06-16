@@ -10,6 +10,8 @@ http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/33482
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/33432
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="IT Sports",IT105:Sky Sport NBA HD
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28457
+#EXTINF:-1 tvg-id="" tvg-name="US093:Box Nation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093BoxNation.png" group-title="USA Sports",US093:Box Nation
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/3075
 #EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/29349
 #EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
