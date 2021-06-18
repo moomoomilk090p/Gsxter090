@@ -1,324 +1,206 @@
-#EXTINF:-1 tvg-id="" tvg-name="US084:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="USA Sports",US084:UFC Network
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/3084
-#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="UK Sports",UK227:UFC fight night Pass
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28832
-#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK241:UFC Fight PASS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK241EUROSPORT2FHD.png" group-title="UK Sports",UK241:UFC Fight PASS
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28818
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL050:Fightbox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL050FightboxFHD.png" group-title="Poland",PL050:Fightbox FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/33482
-#EXTINF:-1 tvg-id="polsat.sport.fight.pl" tvg-name="PL100:POLSAT Sport Fight FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL100POLSATSportFightFHD.png" group-title="Poland",PL100:POLSAT Sport Fight FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/33432
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="IT Sports",IT105:Sky Sport NBA HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/28457
-#EXTINF:-1 tvg-id="" tvg-name="US093:Box Nation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093BoxNation.png" group-title="USA Sports",US093:Box Nation
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/3075
-#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/29349
-#EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58056
-#EXTINF:-1 tvg-id="" tvg-name="LA002:AMC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino",LA002:AMC LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58055
-#EXTINF:-1 tvg-id="" tvg-name="LA003:Animal Planet LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA003AnimalPlanetLA.png" group-title="Latino",LA003:Animal Planet LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58054
-#EXTINF:-1 tvg-id="" tvg-name="LA004:AXN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA004AXNLA.png" group-title="Latino",LA004:AXN LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58053
-#EXTINF:-1 tvg-id="" tvg-name="LA005:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA005UFCNetwork.png" group-title="Latino",LA005:UFC Network
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58052
-#EXTINF:-1 tvg-id="" tvg-name="LA006:Az Click" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA006AzClick.png" group-title="Latino",LA006:Az Click
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58051
-#EXTINF:-1 tvg-id="" tvg-name="LA007:Azteca 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA007Azteca13.png" group-title="Latino",LA007:Azteca 13
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58050
-#EXTINF:-1 tvg-id="" tvg-name="LA008:Azteca 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA008Azteca7.png" group-title="Latino",LA008:Azteca 7
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58049
-#EXTINF:-1 tvg-id="" tvg-name="LA009:Azteca Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA009AztecaCinema.png" group-title="Latino",LA009:Azteca Cinema
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58048
-#EXTINF:-1 tvg-id="" tvg-name="LA010:Azteca Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA010AztecaMundo.png" group-title="Latino",LA010:Azteca Mundo
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58047
-#EXTINF:-1 tvg-id="" tvg-name="LA011:Azteca Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino",LA011:Azteca Noticias
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58046
-#EXTINF:-1 tvg-id="" tvg-name="LA012:Bandamax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA012Bandamax.png" group-title="Latino",LA012:Bandamax
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58045
-#EXTINF:-1 tvg-id="" tvg-name="LA013:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA013Boomerang.png" group-title="Latino",LA013:Boomerang
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58044
-#EXTINF:-1 tvg-id="" tvg-name="LA014:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino",LA014:Canal 11
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58043
-#EXTINF:-1 tvg-id="" tvg-name="LA015:Canal 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA015Canal5.png" group-title="Latino",LA015:Canal 5
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58042
-#EXTINF:-1 tvg-id="" tvg-name="LA016:Canal De Las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA016CanalDeLasEstrellas.png" group-title="Latino",LA016:Canal De Las Estrellas
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58041
-#EXTINF:-1 tvg-id="" tvg-name="LA017:Caracol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA017Caracol.png" group-title="Latino",LA017:Caracol
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58040
-#EXTINF:-1 tvg-id="" tvg-name="LA018:Carton Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA018CartonNetwork.png" group-title="Latino",LA018:Carton Network
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58039
-#EXTINF:-1 tvg-id="" tvg-name="LA019:CDF Premuim" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA019CDFPremuim.png" group-title="Latino",LA019:CDF Premuim
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58038
-#EXTINF:-1 tvg-id="" tvg-name="LA020:Cine Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA020CineCanal.png" group-title="Latino",LA020:Cine Canal
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58037
-#EXTINF:-1 tvg-id="" tvg-name="LA021:Cinemax East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA021CineLatino.png" group-title="Latino",LA021:Cinemax East
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58036
-#EXTINF:-1 tvg-id="" tvg-name="LA022:Cine Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA022CineMax.png" group-title="Latino",LA022:Cine Max
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58035
-#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino",LA023:Claro Sports
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58034
-#EXTINF:-1 tvg-id="" tvg-name="LA024:CNN en Espagnol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA024CNNenEspagnol.png" group-title="Latino",LA024:CNN en Espagnol
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58033
-#EXTINF:-1 tvg-id="" tvg-name="LA025:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA025ComedyCentral.png" group-title="Latino",LA025:Comedy Central
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58032
-#EXTINF:-1 tvg-id="" tvg-name="LA026:De Pelicula" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA026DePelicula.png" group-title="Latino",LA026:De Pelicula
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58031
-#EXTINF:-1 tvg-id="" tvg-name="LA027:Discovery Home Health LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino",LA027:Discovery Home Health LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58030
-#EXTINF:-1 tvg-id="" tvg-name="LA028:Discovery LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino",LA028:Discovery LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58029
-#EXTINF:-1 tvg-id="" tvg-name="LA029:Discovery Civilization" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino",LA029:Discovery Civilization
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58028
-#EXTINF:-1 tvg-id="" tvg-name="LA030:Discovery ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA030DiscoveryIDLA.png" group-title="Latino",LA030:Discovery ID LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58027
-#EXTINF:-1 tvg-id="" tvg-name="LA031:Discovery Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA031DiscoveryKids.png" group-title="Latino",LA031:Discovery Kids
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58026
-#EXTINF:-1 tvg-id="" tvg-name="LA032:Discovery Science LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino",LA032:Discovery Science LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58025
-#EXTINF:-1 tvg-id="" tvg-name="LA033:Discovery Teather" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino",LA033:Discovery Teather
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58024
-#EXTINF:-1 tvg-id="" tvg-name="LA034:Discovery TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino",LA034:Discovery TLC
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58023
-#EXTINF:-1 tvg-id="" tvg-name="LA035:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino",LA035:Discovery Turbo
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58022
-#EXTINF:-1 tvg-id="" tvg-name="LA036:Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA036Universal.png" group-title="Latino",LA036:Universal
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58021
-#EXTINF:-1 tvg-id="" tvg-name="LA037:Disney LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA037DisneyLA.png" group-title="Latino",LA037:Disney LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58020
-#EXTINF:-1 tvg-id="" tvg-name="LA038:Disney Junior LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA038DisneyJuniorLA.png" group-title="Latino",LA038:Disney Junior LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58019
-#EXTINF:-1 tvg-id="" tvg-name="LA039:Disney XD LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA039DisneyXDLA.png" group-title="Latino",LA039:Disney XD LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58018
-#EXTINF:-1 tvg-id="" tvg-name="LA040:Distrito Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="Latino",LA040:Distrito Comedia
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58017
-#EXTINF:-1 tvg-id="" tvg-name="LA041:Discovery Familia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA041DXTV.png" group-title="Latino",LA041:Discovery Familia
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58016
-#EXTINF:-1 tvg-id="" tvg-name="LA042:E! LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA042E!LA.png" group-title="Latino",LA042:E! LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58015
-#EXTINF:-1 tvg-id="" tvg-name="LA043:Bloomberg LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA043BloombergLA.png" group-title="Latino",LA043:Bloomberg LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58014
-#EXTINF:-1 tvg-id="" tvg-name="LA044:EL Gourmet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="Latino",LA044:EL Gourmet
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58013
-#EXTINF:-1 tvg-id="" tvg-name="LA045:ESPN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino",LA045:ESPN LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58012
-#EXTINF:-1 tvg-id="" tvg-name="LA046:ESPN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino",LA046:ESPN 2
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58011
-#EXTINF:-1 tvg-id="" tvg-name="LA047:ESPN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino",LA047:ESPN 3
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58010
-#EXTINF:-1 tvg-id="" tvg-name="LA048:Film And Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="Latino",LA048:Film And Arts
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58009
-#EXTINF:-1 tvg-id="" tvg-name="LA049:Film Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA049FilmZone.png" group-title="Latino",LA049:Film Zone
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58008
-#EXTINF:-1 tvg-id="" tvg-name="LA051:Fox Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino",LA051:Fox Series
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58006
-#EXTINF:-1 tvg-id="" tvg-name="LA052:Fox Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino",LA052:Fox Action
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58005
-#EXTINF:-1 tvg-id="" tvg-name="LA053:Fox Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png" group-title="Latino",LA053:Fox Cinema
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58004
-#EXTINF:-1 tvg-id="" tvg-name="LA054:Fox Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA054FoxClassic.png" group-title="Latino",LA054:Fox Classic
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58003
-#EXTINF:-1 tvg-id="" tvg-name="LA055:Fox LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA055FoxLA.png" group-title="Latino",LA055:Fox LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58002
-#EXTINF:-1 tvg-id="" tvg-name="LA056:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA056FoxLife.png" group-title="Latino",LA056:Fox Life
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58001
-#EXTINF:-1 tvg-id="" tvg-name="LA057:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA057FoxMovies.png" group-title="Latino",LA057:Fox Movies
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58000
-#EXTINF:-1 tvg-id="" tvg-name="LA058:Fox Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino",LA058:Fox Sports 1
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57999
-#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino",LA059:Fox Sports 2
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57998
-#EXTINF:-1 tvg-id="" tvg-name="LA060:Fox Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino",LA060:Fox Sports 3
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57997
-#EXTINF:-1 tvg-id="" tvg-name="LA061:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA061FX.png" group-title="Latino",LA061:FX
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57996
-#EXTINF:-1 tvg-id="" tvg-name="LA062:Warner" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino",LA062:Warner
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57995
-#EXTINF:-1 tvg-id="" tvg-name="LA063:Glitz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino",LA063:Glitz
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57994
-#EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino",LA064:Golden Edge
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57993
-#EXTINF:-1 tvg-id="" tvg-name="LA065:Golden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="Latino",LA065:Golden
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57992
-#EXTINF:-1 tvg-id="" tvg-name="LA066:H2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA066H2LA.png" group-title="Latino",LA066:H2 LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57991
-#EXTINF:-1 tvg-id="" tvg-name="LA067:HBO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="Latino",LA067:HBO LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57990
-#EXTINF:-1 tvg-id="" tvg-name="LA068:HBO 2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="Latino",LA068:HBO 2 LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57989
-#EXTINF:-1 tvg-id="" tvg-name="LA069:HBO Family LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="Latino",LA069:HBO Family LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57988
-#EXTINF:-1 tvg-id="" tvg-name="LA070:HBO Signature LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="Latino",LA070:HBO Signature LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57987
-#EXTINF:-1 tvg-id="" tvg-name="LA071:History LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA071HistoryLA.png" group-title="Latino",LA071:History LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57986
-#EXTINF:-1 tvg-id="" tvg-name="LA072:HOLA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="Latino",LA072:HOLA TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57985
-#EXTINF:-1 tvg-id="" tvg-name="LA073:I-SAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA073I-SAT.png" group-title="Latino",LA073:I-SAT
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57984
-#EXTINF:-1 tvg-id="" tvg-name="LA074:ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA074IDLA.png" group-title="Latino",LA074:ID LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57983
-#EXTINF:-1 tvg-id="" tvg-name="LA075:Lifetime  LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA075LifetimeLA.png" group-title="Latino",LA075:Lifetime  LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57982
-#EXTINF:-1 tvg-id="" tvg-name="LA076:TDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA076MIMusica.png" group-title="Latino",LA076:TDN
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57981
-#EXTINF:-1 tvg-id="" tvg-name="LA077:Win Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA077WinSports.png" group-title="Latino",LA077:Win Sports
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57980
-#EXTINF:-1 tvg-id="" tvg-name="LA078:MTV LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA078MTVLA.png" group-title="Latino",LA078:MTV LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57979
-#EXTINF:-1 tvg-id="" tvg-name="LA079:MTV Hits LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA079MTVHitsLA.png" group-title="Latino",LA079:MTV Hits LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57978
-#EXTINF:-1 tvg-id="" tvg-name="LA080:FXM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="Latino",LA080:FXM
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57977
-#EXTINF:-1 tvg-id="" tvg-name="LA081:NAT GEO Wild LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA081NATGEOWildLA.png" group-title="Latino",LA081:NAT GEO Wild LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57976
-#EXTINF:-1 tvg-id="" tvg-name="LA082:NAT GEO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA082NATGEOLA.png" group-title="Latino",LA082:NAT GEO LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57975
-#EXTINF:-1 tvg-id="" tvg-name="LA083:Nick JR LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA083NickJRLA.png" group-title="Latino",LA083:Nick JR LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57974
-#EXTINF:-1 tvg-id="" tvg-name="LA084:Nicktoons LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:Nicktoons LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57973
-#EXTINF:-1 tvg-id="" tvg-name="LA085:Nick LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA085NickLA.png" group-title="Latino",LA085:Nick LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57972
-#EXTINF:-1 tvg-id="" tvg-name="LA086:SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA086SONY.png" group-title="Latino",LA086:SONY
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57971
-#EXTINF:-1 tvg-id="" tvg-name="LA087:Space LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA087SpaceLA.png" group-title="Latino",LA087:Space LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57970
-#EXTINF:-1 tvg-id="" tvg-name="LA088:Studio Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA088StudioUniversal.png" group-title="Latino",LA088:Studio Universal
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57969
-#EXTINF:-1 tvg-id="" tvg-name="LA089:SYFY LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA089SYFYLA.png" group-title="Latino",LA089:SYFY LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57968
-#EXTINF:-1 tvg-id="" tvg-name="LA090:TBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA090TBS.png" group-title="Latino",LA090:TBS
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57967
-#EXTINF:-1 tvg-id="" tvg-name="LA091:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA091TCM.png" group-title="Latino",LA091:TCM
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57966
-#EXTINF:-1 tvg-id="" tvg-name="LA092:Unicable" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA092Unicable.png" group-title="Latino",LA092:Unicable
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57965
-#EXTINF:-1 tvg-id="" tvg-name="LA093:Tele Hit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA093TeleHit.png" group-title="Latino",LA093:Tele Hit
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57964
-#EXTINF:-1 tvg-id="" tvg-name="LA096:Canal Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA096CanalDisney.png" group-title="Latino",LA096:Canal Disney
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57961
-#EXTINF:-1 tvg-id="" tvg-name="LA097:Tele Visa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA097TeleVisa.png" group-title="Latino",LA097:Tele Visa
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57960
-#EXTINF:-1 tvg-id="" tvg-name="LA098:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino",LA098:Paramount
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57959
-#EXTINF:-1 tvg-id="" tvg-name="LA099:TLC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino",LA099:TLC LA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57958
-#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57957
-#EXTINF:-1 tvg-id="" tvg-name="LA101:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA101TNT.png" group-title="Latino",LA101:TNT
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57956
-#EXTINF:-1 tvg-id="" tvg-name="LA102:TNT Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA102TNTSeries.png" group-title="Latino",LA102:TNT Series
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57955
-#EXTINF:-1 tvg-id="" tvg-name="LA103:Tooncast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA103Tooncast.png" group-title="Latino",LA103:Tooncast
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57954
-#EXTINF:-1 tvg-id="" tvg-name="LA104:UNIMAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA104UNIMAS.png" group-title="Latino",LA104:UNIMAS
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57953
-#EXTINF:-1 tvg-id="" tvg-name="LA105:Tru TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA105TruTV.png" group-title="Latino",LA105:Tru TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57952
-#EXTINF:-1 tvg-id="" tvg-name="LA106:NU9VE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA106Marti.png" group-title="Latino",LA106:NU9VE
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57951
-#EXTINF:-1 tvg-id="" tvg-name="LA107:TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA107TVE.png" group-title="Latino",LA107:TVE
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57950
-#EXTINF:-1 tvg-id="" tvg-name="LA109:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA113ACTIONMAX.png" group-title="Latino",LA109:ACTION MAX
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59188
-#EXTINF:-1 tvg-id="" tvg-name="LA115:Cinemoi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA180Cinemoi.png" group-title="Latino",LA115:Cinemoi
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59121
-#EXTINF:-1 tvg-id="" tvg-name="LA116:Cinema 30 PPV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA199Cinema30PPV.png" group-title="Latino",LA116:Cinema 30 PPV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59102
-#EXTINF:-1 tvg-id="" tvg-name="LA117:Cinemax Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA234CINEMAPLUS.png" group-title="Latino",LA117:Cinemax Action
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59067
-#EXTINF:-1 tvg-id="" tvg-name="LA118:Cinemax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino",LA118:Cinemax
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59066
-#EXTINF:-1 tvg-id="" tvg-name="LA122:Cinemax West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="Latino",LA122:Cinemax West
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59036
-#EXTINF:-1 tvg-id="" tvg-name="LA123:Directv Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino",LA123:Directv Sports
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59034
-#EXTINF:-1 tvg-id="" tvg-name="LA124:Directv Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA269DirectvSports2.png" group-title="Latino",LA124:Directv Sports 2
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59032
-#EXTINF:-1 tvg-id="" tvg-name="LA125:Nick 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA280Nick2FHD.png" group-title="Latino",LA125:Nick 2 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59021
-#EXTINF:-1 tvg-id="" tvg-name="LA126:EL TRECE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA299ELTRECEHD.png" group-title="Latino",LA126:EL TRECE HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59002
-#EXTINF:-1 tvg-id="" tvg-name="LA129:HCH SD HON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA310HCHSDHON.png" group-title="Latino",LA129:HCH SD HON
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58991
-#EXTINF:-1 tvg-id="" tvg-name="LA130:FORO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA318PFC.png" group-title="Latino",LA130:FORO TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58983
-#EXTINF:-1 tvg-id="" tvg-name="LA131:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA323FOXNEWS.png" group-title="Latino",LA131:FOX NEWS
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58978
-#EXTINF:-1 tvg-id="" tvg-name="LA132:Fox Premium Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA324FoxPremiumActionHD.png" group-title="Latino",LA132:Fox Premium Action HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58977
-#EXTINF:-1 tvg-id="" tvg-name="LA133:HBO Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA354HBOPlusFHD.png" group-title="Latino",LA133:HBO Plus FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58947
-#EXTINF:-1 tvg-id="" tvg-name="LA134:HBO Plus West HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA355HBOPlusWestHD.png" group-title="Latino",LA134:HBO Plus West HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58946
-#EXTINF:-1 tvg-id="" tvg-name="LA135:HBO East HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA356HBOEastHD.png" group-title="Latino",LA135:HBO East HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58945
-#EXTINF:-1 tvg-id="" tvg-name="LA136:RCN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA376TELEMUSICA.png" group-title="Latino",LA136:RCN
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58925
-#EXTINF:-1 tvg-id="" tvg-name="LA137:TV Globo Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA390TVGloboInternacional.png" group-title="Latino",LA137:TV Globo Internacional
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58911
-#EXTINF:-1 tvg-id="" tvg-name="LA138:MAX UP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA404MAXUP.png" group-title="Latino",LA138:MAX UP
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58897
-#EXTINF:-1 tvg-id="" tvg-name="LA139:Milenio TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA410MilenioTVHD.png" group-title="Latino",LA139:Milenio TV HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58891
-#EXTINF:-1 tvg-id="" tvg-name="LA140:MoviePlex FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA416MoviePlexFHD.png" group-title="Latino",LA140:MoviePlex FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58885
-#EXTINF:-1 tvg-id="" tvg-name="LA141:Multimedios HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA423MultimediosHD.png" group-title="Latino",LA141:Multimedios HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58878
-#EXTINF:-1 tvg-id="" tvg-name="LA142:MULTIMEDIOS Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA424MusicTopHD.png" group-title="Latino",LA142:MULTIMEDIOS Plus
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58877
-#EXTINF:-1 tvg-id="" tvg-name="LA143:TELEUNIVERSO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA426TELEUNIVERSO.png" group-title="Latino",LA143:TELEUNIVERSO
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58875
-#EXTINF:-1 tvg-id="" tvg-name="LA144:TV Quisqueya" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA431TVQuisqueya.png" group-title="Latino",LA144:TV Quisqueya
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58870
-#EXTINF:-1 tvg-id="" tvg-name="LA145:Tigo Sports 2 (Bolivia)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA468BoliviaTV.png" group-title="Latino",LA145:Tigo Sports 2 (Bolivia)
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58833
-#EXTINF:-1 tvg-id="" tvg-name="LA146:Todo Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA473TodoNoticias.png" group-title="Latino",LA146:Todo Noticias
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58828
-#EXTINF:-1 tvg-id="" tvg-name="LA147:RCN Novelas HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA489RCNNovelasHD.png" group-title="Latino",LA147:RCN Novelas HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58812
-#EXTINF:-1 tvg-id="" tvg-name="LA149:Showtime East FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA521ShowtimeEastFHD.png" group-title="Latino",LA149:Showtime East FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58780
-#EXTINF:-1 tvg-id="" tvg-name="LA150:SHOWTIME FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA522SHOWTIMEFHD.png" group-title="Latino",LA150:SHOWTIME FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58779
-#EXTINF:-1 tvg-id="" tvg-name="LA151:Starz Cinema FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA531StarzCinemaFHD.png" group-title="Latino",LA151:Starz Cinema FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58770
-#EXTINF:-1 tvg-id="" tvg-name="LA152:Starz Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA532StarzComedyFHD.png" group-title="Latino",LA152:Starz Comedy FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58769
-#EXTINF:-1 tvg-id="" tvg-name="LA153:Starz Encore Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA534StarzEncoreActionFHD.png" group-title="Latino",LA153:Starz Encore Action FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58767
-#EXTINF:-1 tvg-id="" tvg-name="LA154:Starz Encore Black FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA535StarzEncoreBlackFHD.png" group-title="Latino",LA154:Starz Encore Black FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58766
-#EXTINF:-1 tvg-id="" tvg-name="LA155:Starz Encore Classic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA536StarzEncoreClassicFHD.png" group-title="Latino",LA155:Starz Encore Classic FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58765
-#EXTINF:-1 tvg-id="" tvg-name="LA156:Starz Encore Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA537StarzEncoreFamilyFHD.png" group-title="Latino",LA156:Starz Encore Family FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58764
-#EXTINF:-1 tvg-id="" tvg-name="LA157:Starz Encore FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA538StarzEncoreFHD.png" group-title="Latino",LA157:Starz Encore FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58763
-#EXTINF:-1 tvg-id="" tvg-name="LA158:Starz Encore Suspense FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA539StarzEncoreSuspenseFHD.png" group-title="Latino",LA158:Starz Encore Suspense FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58762
-#EXTINF:-1 tvg-id="" tvg-name="LA159:Starz Encore Western FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA540StarzEncoreWesternFHD.png" group-title="Latino",LA159:Starz Encore Western FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58761
-#EXTINF:-1 tvg-id="" tvg-name="LA160:Starz Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA541StarzFamilyHD.png" group-title="Latino",LA160:Starz Family HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58760
-#EXTINF:-1 tvg-id="" tvg-name="LA161:Starz FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA542StarzFHD.png" group-title="Latino",LA161:Starz FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58759
-#EXTINF:-1 tvg-id="" tvg-name="LA162:Starz Kids & Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA543StarzKids&FamilyFHD.png" group-title="Latino",LA162:Starz Kids & Family FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58758
-#EXTINF:-1 tvg-id="" tvg-name="LA163:Starz West FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA544StarzWestFHD.png" group-title="Latino",LA163:Starz West FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58757
-#EXTINF:-1 tvg-id="" tvg-name="LA164:TELEFE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA560TELEFEHD.png" group-title="Latino",LA164:TELEFE HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58741
-#EXTINF:-1 tvg-id="" tvg-name="LA166:Galavision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA600Galavision.png" group-title="Latino",LA166:Galavision
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58701
-#EXTINF:-1 tvg-id="" tvg-name="LA167:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino",LA167:TUDN
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58695
-#EXTINF:-1 tvg-id="" tvg-name="LA170:TIGO SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino",LA170:TIGO SPORT
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58650
-#EXTINF:-1 tvg-id="" tvg-name="LA171:Cinemax MXL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA652ULTRAFilm.png" group-title="Latino",LA171:Cinemax MXL
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58649ç
-#EXTINF:-1 tvg-id="" tvg-name="LA179:Gol TV (Ecuador)" tvg-logo="" group-title="Latino",LA179:Gol TV (Ecuador)
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65938
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UNITED STATES",UFC
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/39157
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="http://dimapro.cz:8080/images/7379cee65acde41f082ee33d89f6dfb1.png" group-title="SPAIN",LA 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38378
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA2.png" group-title="SPAIN",LA 2
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38379
+#EXTINF:-1 tvg-id="" tvg-name="La 2 HD" tvg-logo="http://dimapro.cz:8080/images/720d80b363c380b49621e06ca855dd5b.png" group-title="SPAIN",La 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38380
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ANTENA3.png" group-title="SPAIN",ANTENA 3
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38381
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA3 HD" tvg-logo="http://dimapro.cz:8080/images/dff36a6a0aadf8e2fd4ed0f877fe9c1f.png" group-title="SPAIN",ANTENA3 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38382
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="https://logo.ott.ma/logo/spain%20hd/CUATRO.png" group-title="SPAIN",CUATRO
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38383
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/CUATRO%20HD.png" group-title="SPAIN",CUATRO HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38384
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="https://logo.ott.ma/logo/spain%20hd/TELECINCO.png" group-title="SPAIN",TELECINCO
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38385
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/TELECINCO%20HD.png" group-title="SPAIN",TELECINCO HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38386
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA%20SEXTA.png" group-title="SPAIN",LA SEXTA
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38387
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA%20SEXTA%20HD.png" group-title="SPAIN",LA SEXTA HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38388
+#EXTINF:-1 tvg-id="" tvg-name="### SERIES Y ENTRETENIMIENTO ###" tvg-logo="" group-title="SPAIN",### SERIES Y ENTRETENIMIENTO ###
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38389
+#EXTINF:-1 tvg-id="" tvg-name="C+ SERIES" tvg-logo="" group-title="SPAIN",C+ SERIES
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38390
+#EXTINF:-1 tvg-id="" tvg-name="C+ SERIES XTRA" tvg-logo="" group-title="SPAIN",C+ SERIES XTRA
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38391
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES MANIA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SERIES%20MANIA%20HD-314.png" group-title="SPAIN",MOVISTAR SERIES MANIA HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38392
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SERIES%20HD.png" group-title="SPAIN",M. SERIES HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38393
+#EXTINF:-1 tvg-id="" tvg-name="M. Series Xtra HD" tvg-logo="" group-title="SPAIN",M. Series Xtra HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38394
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20A3SERIES%20TDT.png" group-title="SPAIN",A3 SERIES HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38395
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPAIN",#0 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38396
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20FOX%20HD.png" group-title="SPAIN",FOX HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38397
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20FOX%20LIFE.png" group-title="SPAIN",FOX LIFE
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38398
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20FOX%20LIFE%20HD.png" group-title="SPAIN",FOX LIFE HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38399
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AXN%20HD.png" group-title="SPAIN",AXN HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38400
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AXN%20WHITE.png" group-title="SPAIN",AXN WHITE
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38401
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AXN%20WHITE%20HD.png" group-title="SPAIN",AXN WHITE HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38402
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20TNT.png" group-title="SPAIN",TNT
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38403
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20TNT.png" group-title="SPAIN",TNT HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38404
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20COMEDY%20CENTRAL.png" group-title="SPAIN",COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38405
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20COMEDY%20CENTRAL.png" group-title="SPAIN",COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38406
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20CALLE%2013.png" group-title="SPAIN",CALLE 13
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38407
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20CALLE%2013.png" group-title="SPAIN",CALLE 13 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38408
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20COSMO%20TDT.png" group-title="SPAIN",COSMO
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38409
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20COSMO%20TDT.png" group-title="SPAIN",COSMO HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38410
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AMC.png" group-title="SPAIN",AMC
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38411
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AMC.png" group-title="SPAIN",AMC HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38412
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SYFY.png" group-title="SPAIN",SYFY
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38413
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SYFY.png" group-title="SPAIN",SYFY HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38414
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20FDF%20TDT.png" group-title="SPAIN",FDF
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38415
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20NEOX%20TDT.png" group-title="SPAIN",NEOX
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38416
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="SPAIN",SOMOS
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38417
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20XTRM%20HD.png" group-title="SPAIN",XTRM
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38418
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20TDT%20ENERGY%20TDT.png" group-title="SPAIN",ENERGY
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38419
+#EXTINF:-1 tvg-id="" tvg-name="### CINE MOVISTAR ###" tvg-logo="" group-title="SPAIN",### CINE MOVISTAR ###
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38420
+#EXTINF:-1 tvg-id="" tvg-name="C+ ESTRENOS" tvg-logo="" group-title="SPAIN",C+ ESTRENOS
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38421
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ESTRENOS.png" group-title="SPAIN",M.ESTRENOS HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38422
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Cine Doc & Roll HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20CINE%20DOC%20&%20ROLL.png" group-title="SPAIN",Movistar Cine Doc & Roll HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38423
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH." tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISNEY%20CH.png" group-title="SPAIN",DISNEY CH.
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38424
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISNEY%20CH.png" group-title="SPAIN",DISNEY CH HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38425
+#EXTINF:-1 tvg-id="" tvg-name="C+ ACCION HD" tvg-logo="" group-title="SPAIN",C+ ACCION HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38426
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.COMEDIA.png" group-title="SPAIN",M.COMEDIA HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38427
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20DRAMA.png" group-title="SPAIN",MOVISTAR DRAMA HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38428
+#EXTINF:-1 tvg-id="" tvg-name="DCINEPANOL" tvg-logo="" group-title="SPAIN",DCINEPANOL
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38429
+#EXTINF:-1 tvg-id="" tvg-name="C+ DCINE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DCINE.png" group-title="SPAIN",C+ DCINE HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38430
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TCM.png" group-title="SPAIN",TCM HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38431
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.HOLLYWOOD.png" group-title="SPAIN",HOLLYWOOD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38432
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.HOLLYWOOD.png" group-title="SPAIN",Hollywood HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38433
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.PARAMOUNT.png" group-title="SPAIN",PARAMOUNT
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38434
+#EXTINF:-1 tvg-id="" tvg-name="M. XTRA HD" tvg-logo="" group-title="SPAIN",M. XTRA HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38435
+#EXTINF:-1 tvg-id="" tvg-name="### CANALES LIGA ###" tvg-logo="" group-title="SPAIN",### CANALES LIGA ###
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38436
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. LIGA HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38437
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LALIGATV BAR
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38438
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LA LIGA TV BAR HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38439
+#EXTINF:-1 tvg-id="" tvg-name="M Liga de Campeones HD" tvg-logo="http://dimapro.cz:8080/images/3a7de759a894da556fd7f1870462badd.png" group-title="SPAIN",M Liga de Campeones HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38440
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 1 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. Liga de campeones 1 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38441
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 2  HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%202.png" group-title="SPAIN",M. Liga de campeones 2  HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38442
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 3 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%203.png" group-title="SPAIN",M. Liga de campeones 3 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38443
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 4 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%204.png" group-title="SPAIN",M. Liga de campeones 4 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38444
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 5 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%205.png" group-title="SPAIN",M. Liga de campeones 5 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38445
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 6 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%206.png" group-title="SPAIN",M. Liga de campeones 6 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38446
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 7 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%207.png" group-title="SPAIN",M. Liga de campeones 7 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38447
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 8 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%208.png" group-title="SPAIN",M. Liga de campeones 8 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38448
+#EXTINF:-1 tvg-id="" tvg-name="###  M  DEPORTES ###" tvg-logo="" group-title="SPAIN",###  M  DEPORTES ###
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38449
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TELEDEPORTE.png" group-title="SPAIN",TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38450
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%201.png" group-title="SPAIN",M. DEPORTE 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38451
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 2 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%202.png" group-title="SPAIN",M. DEPORTE 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38452
+#EXTINF:-1 tvg-id="" tvg-name="Movistar+ F1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",Movistar+ F1 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38453
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.%20GOLF.png" group-title="SPAIN",M. GOLF HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38454
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BARCA%20TV.png" group-title="SPAIN",BARCA TV
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38455
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.REAL%20MADRID%20TV.png" group-title="SPAIN",Realmadrid TV HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38456
+#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20MEGA%20TDT.png" group-title="SPAIN",mega
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38457
+#EXTINF:-1 tvg-id="" tvg-name="C+ FUTBOL HD" tvg-logo="" group-title="SPAIN",C+ FUTBOL HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38458
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.GOL%20TV.png" group-title="SPAIN",GOL TV
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38459
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA1
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38460
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%201%20.png" group-title="SPAIN",EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38461
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%202%20.png" group-title="SPAIN",Eurosport 2
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38462
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga De Campeones HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20DE%20CAMPEONES.png" group-title="SPAIN",M.Liga De Campeones HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38463
+#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.MOTOGP.png" group-title="SPAIN",M.MOTOGP HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38464
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38465
+#EXTINF:-1 tvg-id="" tvg-name="tdp HD" tvg-logo="" group-title="SPAIN",tdp HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38466
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%201.png" group-title="SPAIN",DAZN 1
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38469
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%202.png" group-title="SPAIN",DAZN 2
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38470
+#EXTINF:-1 tvg-id="" tvg-name="###  DOCUMENTALES  ###" tvg-logo="" group-title="SPAIN",###  DOCUMENTALES  ###
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38474
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20HD.png" group-title="SPAIN",NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38475
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20HD.png" group-title="SPAIN",NAT GEOGRAPHIC
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38476
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20GRAPHIC%20WILD.png" group-title="SPAIN",NG WILD HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38477
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.HISTORIA.png" group-title="SPAIN",HISTORIA
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38478
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISCOVERY.png" group-title="SPAIN",DISCOVERY
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38479
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DMAX.png" group-title="SPAIN",DMAX
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38480
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BLAZE.png" group-title="SPAIN",BLAZE
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38482
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.VIAJAR.png" group-title="SPAIN",VIAJAR
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38483
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.VIAJAR.png" group-title="SPAIN",VIAJAR HD
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38484
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+INVES" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CRIMEN+INVES.png" group-title="SPAIN",CRIMEN+INVES
+http://dimapro.cz:8080/00:1A:79:16:FC:E6/ziajdjjfdifjd64646/38485
